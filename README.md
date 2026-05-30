@@ -1,20 +1,12 @@
+![Finance Expense Insights Dashboard premium hero](assets/readme-hero.svg)
+
 # Finance Expense Insights Dashboard
 
 > Executive finance BI dashboard for expense visibility, budget variance, department spending, cash discipline, and cost-control intelligence.
 
 Built by **Arsim Shefkiu** under **FullStackWithAI**.
 
-<p align="center">
-  <img alt="Finance BI" src="https://img.shields.io/badge/Finance%20BI-Expense%20Insights-C9A646?style=for-the-badge" />
-  <img alt="Budget Control" src="https://img.shields.io/badge/Budget%20Control-Variance%20Analysis-111827?style=for-the-badge" />
-  <img alt="FullStackWithAI" src="https://img.shields.io/badge/FullStackWithAI-Executive%20Finance-C9A646?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <a href="https://www.designhubmk.com"><strong>www.designhubmk.com</strong></a> ·
-  <strong>arsim@designhubmk.com</strong> ·
-  <a href="https://github.com/fullstackwithai"><strong>GitHub: fullstackwithai</strong></a>
-</p>
+[www.designhubmk.com](https://www.designhubmk.com) · arsim@designhubmk.com · [GitHub: fullstackwithai](https://github.com/fullstackwithai)
 
 ---
 
@@ -72,6 +64,8 @@ This repository is presented as a premium finance analytics dashboard for tracki
 
 ```text
 finance-expense-insights-dashboard/
+├── assets/
+│   └── readme-hero.svg
 ├── data/
 │   └── expenses-sample.csv
 ├── sql/
@@ -97,12 +91,6 @@ finance-expense-insights-dashboard/
 |---|---|
 | I build finance dashboards that turn cost activity into clearer budget and operating decisions. | **FullStackWithAI** represents premium portfolio work built around business intelligence, polished presentation, and AI-assisted execution. |
 
-<p align="center">
-  <strong>Theme:</strong> Finance BI · Expense Insights · Budget Control · Variance Analysis
-</p>
+**Theme:** Finance BI · Expense Insights · Budget Control · Variance Analysis
 
-<p align="center">
-  <a href="https://www.designhubmk.com"><strong>www.designhubmk.com</strong></a> ·
-  <strong>arsim@designhubmk.com</strong> ·
-  <a href="https://github.com/fullstackwithai"><strong>GitHub: fullstackwithai</strong></a>
-</p>
+[www.designhubmk.com](https://www.designhubmk.com) · arsim@designhubmk.com · [GitHub: fullstackwithai](https://github.com/fullstackwithai)
